@@ -10,3 +10,11 @@
 * Number Paused Torrents
 * Highest Torrent ETA (in minutes)
 * Percentage of All Downloading and Paused Torrents Finished (Total Downloaded Size / Total Size)
+
+#### Example config entry
+```yaml
+sensor:
+  - platform: qbittorrent
+    url: "http://<hostname>:<port>"
+    username: YOUR_USERNAME
+    password: YOUR_PASSWORD
