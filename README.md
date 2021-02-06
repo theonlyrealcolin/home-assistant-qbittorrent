@@ -9,4 +9,4 @@
 * Number Seeding Torrents
 * Number Paused Torrents
 * Highest Torrent ETA (in minutes)
-* Percentage of Downloading/Paused Torrents completed
+* Percentage of All Downloading and Paused Torrents Finished (Total Downloaded Size / Total Size)
